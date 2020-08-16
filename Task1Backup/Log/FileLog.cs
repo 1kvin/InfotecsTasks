@@ -12,7 +12,7 @@ namespace Task1Backup.Log
 
         public void Start(string filePath, int level)
         {
-            fileName = $"{DateTime.Now.ToShortDateString()}.log";
+            fileName = $"{DateTime.Now.ToShortDateString()}_{DateTime.Now.GetHashCode()}.log";
             this.filePath = filePath;
             this.level = level;
             streamWriter = new StreamWriter(Path.Combine(filePath, fileName));
