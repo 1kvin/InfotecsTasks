@@ -1,0 +1,9 @@
+{
+  "HomeDirectory": [
+    "C:/Users/12345/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Home1",
+    "C:/Users/12345/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Home2"
+  ],
+  "BackupDirectory": "C:/Users/12345/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Backup",
+  "LogFileDirectory": "C:/Users/12345/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Log",
+  "LogLevel" : 2
+}

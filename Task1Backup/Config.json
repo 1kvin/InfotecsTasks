@@ -1,9 +1,0 @@
-{
-  "HomeDirectory": [
-    "C:/Users/kvin2/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Home1",
-    "C:/Users/kvin2/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Home2"
-  ],
-  "BackupDirectory": "C:/Users/kvin2/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Backup",
-  "LogFileDirectory": "C:/Users/kvin2/source/repos/Task1Backup/Task1Backup/bin/Debug/netcoreapp3.1/Log",
-  "LogLevel" : 2
-}
